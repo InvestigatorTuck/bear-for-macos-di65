@@ -1,4 +1,4 @@
-
+secure Extension for Bear for macOS - calendar integration and multi-device sync offers the most advanced Bear for macOS extension, with calendar integration and multi-device
 
 
 
